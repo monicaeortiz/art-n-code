@@ -2,3 +2,4 @@
 
 This class will teach you how to code and also how to use that code in creative ways!
 
+https://monicaeortiz.github.io/art-n-code/
